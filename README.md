@@ -18,7 +18,8 @@ El objetivo es intercambiar los valores contenidos en dos variables numéricas (
 
 Para demostrar la validez del algoritmo, se adjunta la captura del entorno de desarrollo (IDE) con la salida de consola que confirma el intercambio exitoso de los valores:
 
-![Captura del Intercambio de Variables](intercambio.png)
+
+<img width="927" height="528" alt="image" src="https://github.com/user-attachments/assets/5de3c5b5-a271-4bea-ba20-6aaf9983de8c" />(intercambio.png)
 
 *(Nota: Asegúrate de guardar tu imagen con el nombre "intercambio.png" en la raíz de tu repositorio para que se renderice aquí).*
 
